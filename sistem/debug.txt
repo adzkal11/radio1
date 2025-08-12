@@ -1,0 +1,6 @@
+Array
+(
+    [nama_user] => Adzkal Azkiya
+    [id_user] => 3
+    [total] => 50000
+)
