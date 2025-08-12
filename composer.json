@@ -1,4 +1,7 @@
 {
-    "require": {}
-  }
+  "name": "my-php-app",
+  "description": "A PHP app hosted on Railway",
+  "require": {}
+}
+
   
